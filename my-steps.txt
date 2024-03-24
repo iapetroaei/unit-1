@@ -128,7 +128,16 @@ Authorized the web browser
 moved to step 6
 
 ### Step 6
-
+ls
+touch menu.txt
+git status
+saved my steps file
+git add .
+git commit -m 'starting a menu'
+[main 745697a] starting a menu
+ 2 files changed, 11 insertions(+), 2 deletions(-)
+ create mode 100644 menu.txt
+git push
 
 ### Step 7
 *** DO NOT RECORD STEP 7 ***
